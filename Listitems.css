@@ -1,0 +1,21 @@
+h1{
+    color:black;
+    background-color: yellow;
+}
+table{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    width: 30%;
+    margin: auto;
+    max-width: 50%;
+
+  }
+  td,th{
+  
+    border: 2px solid black;
+    padding-left:10px;
+    padding-right: 10px;
+   
+  }
+  
